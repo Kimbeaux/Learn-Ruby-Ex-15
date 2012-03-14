@@ -1,0 +1,3 @@
+EC6:  Run ri File does not list the read() command, nor any others, so did not do this EC.  
+May come back and add exercises from here:  http://www.ruby-doc.org/core-1.9.3/IO.html.
+Otherwise, this is the last state after all EC's.
